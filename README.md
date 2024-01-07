@@ -4,15 +4,6 @@
 ## Description
 A simple restaurant management system that allows users to log in as staff or customers. Staff members have access to CRUD operations for managing menu items, viewing employee details, and recording employee check-in times. Customers can view menu items.
 
-## Developers & their roles
-- Adarsh Raj [File handler, Create menu items, UI improvements]
-- Ashutosh Singh [Architecture, Sorting menu, Code cleanup]
-- Eashan Roy [Employee directory, Delete menu items]
-- Girish Kulkarni [Staff view, Styling, Database integration]
-- Manish Rao [Employee check-in, Logout]
-- Omkar Raotole [Login, Menu item counter]
-- Sri Charan Balakundhi [Read, Update menu items]
-
 ### Prerequisites
 1. Java JDK 11 or higher installed.
 2. Access to a command line interface (CLI) or an Integrated Development Environment (IDE) like Eclipse, IntelliJ IDEA, or NetBeans.
